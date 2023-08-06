@@ -2,8 +2,6 @@
 
 ## I am Nishchay Bhatt (App Developer for fun)
 
-<!--
-**Nishchay1571999/Nishchay1571999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some things that i am intrested in working on and i am currently working on.
 - 🔭 I’m currently working on Good UI focessing private apps which are mainly company specific requirements.
