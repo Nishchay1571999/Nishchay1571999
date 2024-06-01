@@ -31,27 +31,6 @@ _I am a Self-taught __Go developer__ by hobby, __JS Developer__ by reality. :(_
 
 [![Nishchay1571999's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nishchay1571999&bg_color=00000000&color=c7c7c7&line=75baff&point=4F8CC9&area=true&hide_border=true)](https://github.com/Nishchay1571999/)
 
-<!-- <h2><i>Language and Tools</i></h2>
-</br>
- <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" height="auto" width="60px">
- <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="auto" width="60px">
- <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="auto" width="60px">
- <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="auto" width="60px">
- <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" height="auto" width="130px">
- <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="auto" width="60px">
- <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/3d170b34b08dabaeda6158e17eee7d32b930f923/public/logos/vscode.svg" height="auto" width="60">
-  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" height="auto" width="130">
- <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" width="130px">
-</br>
-</br> -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishchay1571999&langs_count=10&text_color=9f9f9f&title_color=4F8CC9&bg_color=00000000&hide_border=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-<h2><i>Top Languages</i></h2>
-
-<h6> Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. </h6>
-
 </div>
 
 
@@ -115,6 +94,23 @@ _I am a Self-taught __Go developer__ by hobby, __JS Developer__ by reality. :(_
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+
+
+<div align="center">
+  
+ <h2><i>Language and Tools</i></h2>
+</br>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" height="auto" width="60px">
+ <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" height="auto" width="60px">
+ <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="auto" width="60px">
+ <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/3d170b34b08dabaeda6158e17eee7d32b930f923/public/logos/vscode.svg" height="auto" width="60px">
+ <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="auto" width="60px">
+ <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="60px" height="auto">
+ <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" height="auto" width="60px">
+</br>
+</br>
+</div>
+
 
 <h2 align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
