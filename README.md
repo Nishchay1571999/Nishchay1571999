@@ -64,6 +64,7 @@ _I am a Self-taught __Go developer__ by hobby, __JS Developer__ by reality. :(_
     "Languages": {
         "C":                   "Beginner",
         "C++":                 "Beginner",
+        "GO Lang":             "Intermediate",
         "HTML5":               "Intermediate",
         "Java":                "Beginner",
         "JavaScript":          "Advanced",
